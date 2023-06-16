@@ -68,11 +68,11 @@ Now open your browser at `http://localhost:3000`
 
 ## Usage
 
-In this example, you will find a boilerplate you can use to guide yourself into creating a react+vite app with helia, this provides a pattern to reuse the same client across components with the context API and suggests how to integrate it with custom hooks
+In this example, you will find a boilerplate to [prepare your data](https://github.com/filecoin-project/fvm-starter-kit-deal-making#1-data-prep) to make storage deals on the Filecoin network via Solidity smart contracts. 
 
 You should see the following:
 
-![](./public/hello-helia.gif)
+![](https://github.com/rk-rishikesh/helia-fvm-deal-prep/assets/59107121/6646c63a-55df-4ef7-ae0f-c84c1c526dbf)
 
 _For more examples, please refer to the [Documentation](#documentation)_
 
